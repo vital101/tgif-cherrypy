@@ -1,0 +1,3 @@
+cherrypy
+Jinja2
+requests
